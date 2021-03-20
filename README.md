@@ -1,5 +1,7 @@
 # Income-Analysis-using-Machine-learning
-Using various machine learning algorithms in Scikit-Learn I will Analyse and build models to predict a binary variable of whether a given individual in the data earns more, or less than $50,000 with respect to a number of features. 
+The aim of this project is to be able to analyze the adult dataset and classify the annual income of an individual to either <50K or >50K category (binary classification). Various classfiers have been implemented and their performance have been compared to arrive at the best model for this particular dataset.
+
+Using various machine learning algorithms in Scikit-Learn I will Analyze and Build models to predict a binary variable of whether a given individual in the data earns more, or less than $50,000 with respect to a number of features. 
 
 I'll employ a number of different Machine Learning Algorithms to evaluate the Accuracy of the models.
 
