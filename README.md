@@ -1,5 +1,5 @@
 # Income-Analysis-using-Machine-learning
-Using various machine learning algorithms in Scikit-Learn I will build models to predict a binary variable of whether a given individual in the data earns more, or less than $50,000. 
+Using various machine learning algorithms in Scikit-Learn I will Analyse and build models to predict a binary variable of whether a given individual in the data earns more, or less than $50,000 with respect to a number of features. 
 
 I'll employ a number of different Machine Learning Algorithms to evaluate the Accuracy of the models.
 
