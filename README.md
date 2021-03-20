@@ -17,3 +17,18 @@ Capital Loss: Continuous value of cappital loss incurred that year.
 Hours Per Week: Number of hours subject worked per week.
 
 The data included in this depository was originally drawn from the 1994 Census Bureau Database and provided by Kaggle.com
+
+## Python Packages:
+
+* Scikit-learn
+* Pandas
+* Numpy
+* Matplotlib
+* Seaborn
+
+## Classification Models Used:
+
+* Logistic Regressions
+* Decision Trees
+* Random Forests
+* Gaussian Naive Bayes
