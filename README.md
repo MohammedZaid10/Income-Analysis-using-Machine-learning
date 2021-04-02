@@ -65,35 +65,29 @@ Split into train-test using MLC++ GenCVFiles (2/3, 1/3 random).
 
 6. Attribute Information:
 
-    age: continuous.
+    Age: The age of an individual.
 
-    workclass: Private, Self-emp-not-inc, Self-emp-inc, Federal-gov, Local-gov, State-gov, Without-pay, Never-worked.
+    Workclass: The sector of the economy in which the individual is employed.
 
-    fnlwgt: continuous.
+    Fnlwgt: A continuious measure which denotes the socio-economic condition of the individual.
 
-    education: Bachelors, Some-college, 11th, HS-grad, Prof-school, Assoc-acdm, Assoc-voc, 9th, 7th-8th, 12th, Masters, 1st-4th, 10th, Doctorate, 5th-6th, Preschool.
+    Education Number: Education level completed.
 
-    education-num: continuous.
+    Marital Status: Married-civ-spouse, Divorced, Never-married, Separated, Widowed, Married-spouse-absent, Married-AF-spouse.
 
-    marital-status: Married-civ-spouse, Divorced, Never-married, Separated, Widowed, Married-spouse-absent, Married-AF-spouse.
+    Relationship: Wife, Own-child, Husband, Not-in-family, Other-relative, Unmarried
 
-    occupation: Tech-support, Craft-repair, Other-service, Sales, Exec-managerial, Prof-specialty, Handlers-cleaners, Machine-op-inspct, Adm-clerical, Farming-fishing,             Transport-moving, Priv-house-serv, Protective-serv, Armed-Forces.
+    Race: White, Asian-Pac-Islander, Amer-Indian-Eskimo, Other, Black.
 
-    relationship: Wife, Own-child, Husband, Not-in-family, Other-relative, Unmarried.
+    Sex: Male, Female.
 
-    race: White, Asian-Pac-Islander, Amer-Indian-Eskimo, Other, Black.
+    Capital gains: Continuous value of cappital gain received that year.
 
-    sex: Female, Male.
+    Capital Loss: Continuous value of cappital loss incurred that year.
 
-    capital-gain: continuous.
+    Hours Per Week: Number of hours subject worked per week.
 
-    capital-loss: continuous.
 
-    hours-per-week: continuous.
-
-    native-country: United-States, Cambodia, England, Puerto-Rico, Canada, Germany, Outlying-US(Guam-USVI-etc), India, Japan, Greece, South, China, Cuba, Iran, Honduras,           Philippines, Italy, Poland, Jamaica, Vietnam, Mexico, Portugal, Ireland, France, Dominican-Republic, Laos, Ecuador, Taiwan, Haiti, Columbia, Hungary, Guatemala, Nicaragua,     Scotland, Thailand, Yugoslavia, El-Salvador, Trinadad&Tobago, Peru, Hong, Holand-Netherlands.
-
-    class: >50K, <=50K
 
 7. Missing Attribute Values:
 7% have missing values.
