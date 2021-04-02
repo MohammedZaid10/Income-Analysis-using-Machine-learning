@@ -87,7 +87,7 @@ Split into train-test using MLC++ GenCVFiles (2/3, 1/3 random).
 
     Hours Per Week: Number of hours subject worked per week.
 
-
+    class: >50K, <=50K
 
 7. Missing Attribute Values:
 7% have missing values.
